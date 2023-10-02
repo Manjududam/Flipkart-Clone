@@ -1,0 +1,18 @@
+{
+  "name": "project-flipkart",
+  "version": "1.0.0",
+  "description": "Flipkart-Clone",
+  "main": "Project01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Flipkart-Clone"
+  },
+  "keywords": [
+    "Flipkart"
+  ],
+  "author": "",
+  "license": "ISC"
+}
